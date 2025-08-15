@@ -1,0 +1,11 @@
+{
+  "name": "cpp-bestpractices",
+  "version-string": "1.0.0",
+  "description": "A virtual package to enforce C++ best practices through compiler warnings.",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    }
+  ]
+}
