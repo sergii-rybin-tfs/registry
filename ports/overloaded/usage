@@ -1,0 +1,7 @@
+The overloaded port provides a source code of well-known pattern.
+
+To use it, add the following to your CMakeLists.txt:
+
+    find_package(overloaded CONFIG REQUIRED)
+    target_link_libraries(my-target PRIVATE overloaded::overloaded)
+

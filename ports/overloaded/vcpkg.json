@@ -1,0 +1,5 @@
+{
+  "name": "overloaded",
+  "version-string": "1.0.0",
+  "description": "A header-only library with well-known overloaded template function."
+}
